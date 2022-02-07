@@ -1,0 +1,15 @@
+.header {
+    width: 100%;
+    
+}
+.wallet{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.wallet-icon {
+
+}
+.wallet-address {
+    
+}

@@ -1,0 +1,9 @@
+.wallet-balance {
+    display: flex;
+    justify-content: center;
+    margin: 16px;
+
+}
+.wallet-balance div{
+    margin-left: 16px;
+}
